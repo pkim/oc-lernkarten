@@ -3,7 +3,7 @@
   "title": "Organische Chemie – Lernkarten",
   "generated": "auto",
   "version": 2,
-  "n_cards": 94,
+  "n_cards": 162,
   "tier_legende": {
    "1": "essenziell",
    "2": "wichtig",
@@ -1650,6 +1650,1134 @@
    "back_en": "Longest chain → suffix for principal group → substituents as prefixes (alphabetical) → lowest locants.",
    "tags": [
     "nomenklatur"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c022",
+   "chapter": "k1",
+   "unit": 1,
+   "type": "qa",
+   "front_de": "Was ist der Unterschied zwischen σ- und π-Bindung?",
+   "back_de": "σ-Bindung: Überlappung auf der Kernverbindungsachse, frei drehbar. π-Bindung: seitliche p-Orbital-Überlappung ober-/unterhalb der Achse, NICHT drehbar (Grund für cis/trans). Eine Doppelbindung = 1 σ + 1 π.",
+   "front_en": "Sigma vs. pi bond?",
+   "back_en": "σ on the bond axis (rotatable); π from sideways p-overlap (no rotation).",
+   "tags": [
+    "bindung"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c023",
+   "chapter": "k1",
+   "unit": 1,
+   "type": "qa",
+   "front_de": "Was sagt die Elektronegativität (EN) über eine Bindung aus?",
+   "back_de": "EN = Maß, wie stark ein Atom Bindungselektronen anzieht (F>O>N>Cl>C>H). Große EN-Differenz → polarisierte Bindung (δ+/δ−); gleiche EN → unpolar.",
+   "front_en": "What does electronegativity tell about a bond?",
+   "back_en": "Large EN difference → polar bond (δ+/δ−); equal → non-polar.",
+   "tags": [
+    "bindung",
+    "elektronegativitaet"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c024",
+   "chapter": "k1",
+   "unit": 1,
+   "type": "qa",
+   "front_de": "Woran erkennst du die Hybridisierung eines C-Atoms?",
+   "back_de": "An der Zahl der σ-Partner: 4 → sp³ (109,5°); 3 (eine Doppelbindung) → sp² (120°); 2 (Dreifach- oder zwei Doppelbindungen) → sp (180°).",
+   "front_en": "How to tell a carbon's hybridization?",
+   "back_en": "Count σ-partners: 4→sp³, 3→sp², 2→sp.",
+   "tags": [
+    "hybridisierung"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c025",
+   "chapter": "k2",
+   "unit": 2,
+   "type": "qa",
+   "front_de": "Wann ist ein Molekül chiral?",
+   "back_de": "Wenn es mit seinem Spiegelbild nicht zur Deckung gebracht werden kann – typischerweise bei einem C mit vier verschiedenen Substituenten (Stereozentrum) und ohne Symmetrieebene.",
+   "front_en": "When is a molecule chiral?",
+   "back_en": "When it is not superimposable on its mirror image (e.g. a C with four different groups).",
+   "tags": [
+    "chiralitaet"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c026",
+   "chapter": "k2",
+   "unit": 2,
+   "type": "qa",
+   "front_de": "Wie viele Stereoisomere hat ein Molekül mit n Stereozentren (max.)?",
+   "back_de": "Maximal 2ⁿ. Beispiel: 2 Zentren → bis zu 4 Stereoisomere (2 Enantiomerenpaare bzw. Diastereomere). Symmetrie kann die Zahl verringern (meso-Formen).",
+   "front_en": "Max number of stereoisomers for n stereocenters?",
+   "back_en": "2ⁿ (fewer if meso forms exist).",
+   "tags": [
+    "stereochemie"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c027",
+   "chapter": "k2",
+   "unit": 2,
+   "type": "qa",
+   "front_de": "Was misst man, um eine erfolgreiche Racematspaltung zu prüfen?",
+   "back_de": "Die optische Aktivität (spezifische Drehung im Polarimeter). Ein reines Enantiomer dreht polarisiertes Licht (≠ 0), ein Racemat ist optisch inaktiv (0).",
+   "front_en": "How to check a successful resolution of a racemate?",
+   "back_en": "Measure optical rotation (polarimeter); pure enantiomer ≠ 0, racemate = 0.",
+   "tags": [
+    "stereochemie",
+    "racemat"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c028",
+   "chapter": "k2",
+   "unit": 2,
+   "type": "qa",
+   "front_de": "Was ist eine meso-Verbindung?",
+   "back_de": "Ein Molekül mit Stereozentren, das wegen einer inneren Spiegelebene insgesamt achiral (optisch inaktiv) ist – Bild und Spiegelbild sind identisch.",
+   "front_en": "What is a meso compound?",
+   "back_en": "Has stereocenters but an internal mirror plane → achiral overall.",
+   "tags": [
+    "stereochemie",
+    "meso"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c029",
+   "chapter": "k4",
+   "unit": 2,
+   "type": "qa",
+   "front_de": "SN1 vs. SN2 – die wichtigsten Unterschiede?",
+   "back_de": "SN2: 1 Schritt, Rückseitenangriff, Inversion, bevorzugt primär, polar-aprotisch, Rate ∝ [Substrat][Nu]. SN1: 2 Schritte über Carbokation, Racemisierung, bevorzugt tertiär, polar-protisch, Rate ∝ [Substrat].",
+   "front_en": "SN1 vs SN2?",
+   "back_en": "SN2: concerted, inversion, primary. SN1: via carbocation, racemization, tertiary.",
+   "tags": [
+    "sn"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c030",
+   "chapter": "k4",
+   "unit": 2,
+   "type": "qa",
+   "front_de": "E1 vs. E2 – Unterschied?",
+   "back_de": "E2: konzertiert, starke Base, anti-periplanar, Rate ∝ [Substrat][Base]. E1: über Carbokation (2 Schritte), wie SN1. Beide liefern bevorzugt das stabilere (Zaitsev-)Alken.",
+   "front_en": "E1 vs E2?",
+   "back_en": "E2 concerted with strong base; E1 stepwise via carbocation. Both favour Zaitsev alkene.",
+   "tags": [
+    "elim"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c031",
+   "chapter": "k4",
+   "unit": 2,
+   "type": "qa",
+   "front_de": "Substitution, Addition oder Eliminierung – wie erkennst du den Typ?",
+   "back_de": "Edukt/Produkt vergleichen: Atom getauscht → Substitution; Atome an Mehrfachbindung dazu → Addition; Atome weg + neue Mehrfachbindung → Eliminierung.",
+   "front_en": "How to identify reaction type?",
+   "back_en": "Compare educt/product: swapped=substitution, added to multiple bond=addition, removed+new bond=elimination.",
+   "tags": [
+    "reaktionstyp"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c032",
+   "chapter": "k4",
+   "unit": 2,
+   "type": "qa",
+   "front_de": "Nenne 3 Reduktionsmittel und 2 Oxidationsmittel der OC.",
+   "back_de": "Reduktionsmittel: NaBH₄, LiAlH₄, H₂/Pd(Pt,Ni). Oxidationsmittel: KMnO₄, K₂Cr₂O₇ (mild: PCC).",
+   "front_en": "3 reducing + 2 oxidizing agents?",
+   "back_en": "Reducing: NaBH₄, LiAlH₄, H₂/Pd. Oxidizing: KMnO₄, K₂Cr₂O₇.",
+   "tags": [
+    "redox",
+    "reduktionsmittel"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c033",
+   "chapter": "k4",
+   "unit": 2,
+   "type": "qa",
+   "front_de": "NaBH₄ vs. LiAlH₄ – wann welches?",
+   "back_de": "NaBH₄ ist mild: reduziert nur Aldehyde/Ketone → Alkohol. LiAlH₄ ist stark: reduziert auch Carbonsäuren und Ester → Alkohol. (LiAlH₄ reagiert heftig mit Wasser.)",
+   "front_en": "NaBH₄ vs LiAlH₄?",
+   "back_en": "NaBH₄ mild (aldehydes/ketones); LiAlH₄ strong (also acids/esters).",
+   "tags": [
+    "redox"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c034",
+   "chapter": "k5",
+   "unit": 3,
+   "type": "qa",
+   "front_de": "Allgemeine Summenformel von Alkanen, Alkenen, Alkinen?",
+   "back_de": "Alkane CₙH₂ₙ₊₂ (gesättigt), Alkene CₙH₂ₙ (eine C=C), Alkine CₙH₂ₙ₋₂ (eine C≡C). Cycloalkane CₙH₂ₙ.",
+   "front_en": "General formulas of alkanes/alkenes/alkynes?",
+   "back_en": "CₙH₂ₙ₊₂ / CₙH₂ₙ / CₙH₂ₙ₋₂.",
+   "tags": [
+    "alkane"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c035",
+   "chapter": "k5",
+   "unit": 3,
+   "type": "qa",
+   "front_de": "Warum sind Alkane reaktionsträge?",
+   "back_de": "Sie haben nur unpolare, starke C–C- und C–H-σ-Bindungen – keine Angriffspunkte für Nucleophile/Elektrophile. Reaktion nur radikalisch (Licht/Wärme) oder Verbrennung.",
+   "front_en": "Why are alkanes unreactive?",
+   "back_en": "Only non-polar strong C–C/C–H bonds; react only radically or by combustion.",
+   "tags": [
+    "alkane"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c036",
+   "chapter": "k6",
+   "unit": 4,
+   "type": "reaction",
+   "front_de": "Was besagt die Markovnikov-Regel und warum gilt sie?",
+   "back_de": "Bei Addition von HX ans Alken geht H an das C mit den meisten H, X ans höher substituierte C. Grund: es bildet sich das stabilere (höher substituierte) Carbokation.",
+   "front_en": "Markovnikov rule and why?",
+   "back_en": "H to the carbon with more H; because the more stable carbocation forms.",
+   "tags": [
+    "alken",
+    "markovnikov"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c037",
+   "chapter": "k6",
+   "unit": 4,
+   "type": "qa",
+   "front_de": "Wie weist du eine C=C-Doppelbindung nach?",
+   "back_de": "Bromwasser (braun) wird entfärbt (Br₂ addiert); auch verd. KMnO₄ (violett) entfärbt sich (Baeyer-Probe).",
+   "front_en": "How to detect a C=C bond?",
+   "back_en": "Decolourization of bromine water (or dilute KMnO₄).",
+   "tags": [
+    "alken",
+    "nachweis"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c038",
+   "chapter": "k6",
+   "unit": 4,
+   "type": "reaction",
+   "front_de": "Lindlar vs. Na/NH₃ bei der Teilhydrierung von Alkinen?",
+   "back_de": "Lindlar-Katalysator (vergiftetes Pd) → cis-(Z)-Alken (syn-Addition). Na in flüssigem NH₃ → trans-(E)-Alken.",
+   "front_en": "Lindlar vs Na/NH₃ for alkynes?",
+   "back_en": "Lindlar → cis-alkene; Na/NH₃ → trans-alkene.",
+   "tags": [
+    "alkin",
+    "hydrierung"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c039",
+   "chapter": "k6",
+   "unit": 4,
+   "type": "qa",
+   "front_de": "Warum ist ein tertiäres Carbokation stabiler als ein primäres?",
+   "back_de": "Mehr Alkylgruppen schieben Elektronendichte zur positiven Ladung (+I-Effekt) und stabilisieren über Hyperkonjugation. Stabilität: tertiär > sekundär > primär.",
+   "front_en": "Why is a tertiary carbocation more stable?",
+   "back_en": "More alkyl groups donate electron density (+I, hyperconjugation).",
+   "tags": [
+    "carbokation"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c040",
+   "chapter": "k7",
+   "unit": 5,
+   "type": "qa",
+   "front_de": "Hückel-Regel – wann ist ein Ring aromatisch?",
+   "back_de": "Cyclisch, planar, durchgehend konjugiert und (4n+2) π-Elektronen. Benzol: 6 π → aromatisch und besonders stabil.",
+   "front_en": "Hückel rule for aromaticity?",
+   "back_en": "Cyclic, planar, conjugated, (4n+2) π electrons.",
+   "tags": [
+    "aromat",
+    "hueckel"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c041",
+   "chapter": "k7",
+   "unit": 5,
+   "type": "reaction",
+   "front_de": "Beschreibe den EAS-Mechanismus in 3 Schritten.",
+   "back_de": "1) Elektrophil E⁺ bilden (oft per Katalysator). 2) π-Elektronen greifen E⁺ an → σ-Komplex (Arenium-Ion). 3) H⁺-Abspaltung → Rearomatisierung.",
+   "front_en": "EAS mechanism in 3 steps?",
+   "back_en": "Form E⁺ → σ-complex (arenium) → lose H⁺ (rearomatize).",
+   "tags": [
+    "aromat",
+    "eas"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c042",
+   "chapter": "k7",
+   "unit": 5,
+   "type": "qa",
+   "front_de": "Aktivierende vs. desaktivierende Substituenten – Auswirkung auf Zweitsubstitution?",
+   "back_de": "Aktivierend (–OH, –NH₂, –OR, –Alkyl): o/p-dirigierend, schneller. Desaktivierend (–NO₂, –COOH, –SO₃H): m-dirigierend, langsamer. Halogene: desaktivierend, aber o/p-dirigierend.",
+   "front_en": "Activating vs deactivating groups in EAS?",
+   "back_en": "Activating → o/p, faster; deactivating → meta, slower.",
+   "tags": [
+    "aromat",
+    "dirigierend"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c043",
+   "chapter": "k7",
+   "unit": 5,
+   "type": "reaction",
+   "front_de": "Friedel-Crafts-Acylierung vs. -Alkylierung – Vorteile der Acylierung?",
+   "back_de": "Acylierung über das Acylium-Ion: keine Umlagerung, keine Mehrfachreaktion (Acyl desaktiviert). Alkylierung neigt zu Carbokation-Umlagerung und Mehrfachalkylierung.",
+   "front_en": "FC acylation vs alkylation?",
+   "back_en": "Acylation: no rearrangement/polysubstitution; alkylation suffers both.",
+   "tags": [
+    "aromat",
+    "friedel-crafts"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c044",
+   "chapter": "k7",
+   "unit": 5,
+   "type": "qa",
+   "front_de": "Ist nucleophile aromatische Substitution möglich?",
+   "back_de": "Ja, aber nur an stark elektronenarmen Aromaten (mehrere –M/–I-Gruppen wie –NO₂ in o/p zur Abgangsgruppe). Normales Benzol ist elektronenreich → nur EAS.",
+   "front_en": "Is nucleophilic aromatic substitution possible?",
+   "back_en": "Only on strongly electron-poor arenes (e.g. nitro groups o/p to leaving group).",
+   "tags": [
+    "aromat",
+    "nas"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c045",
+   "chapter": "k7",
+   "unit": 5,
+   "type": "qa",
+   "front_de": "Warum sind mehrkernige (polycyclische) Aromaten oft carcinogen?",
+   "back_de": "Sie werden im Körper zu Epoxiden oxidiert, die kovalent an die DNA binden und Mutationen auslösen (z. B. Benzpyren).",
+   "front_en": "Why are polycyclic aromatics carcinogenic?",
+   "back_en": "Metabolized to epoxides that bind DNA covalently → mutations.",
+   "tags": [
+    "aromat",
+    "carcinogen"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c046",
+   "chapter": "k8",
+   "unit": 6,
+   "type": "reaction",
+   "front_de": "Oxidationsprodukte von primären, sekundären, tertiären Alkoholen?",
+   "back_de": "Primär → Aldehyd (mild) → Carbonsäure (stark). Sekundär → Keton. Tertiär → gar nicht (kein H am C–OH).",
+   "front_en": "Oxidation products of 1°/2°/3° alcohols?",
+   "back_en": "1°→aldehyde→acid, 2°→ketone, 3°→no reaction.",
+   "tags": [
+    "alkohol",
+    "oxidation"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c047",
+   "chapter": "k8",
+   "unit": 6,
+   "type": "qa",
+   "front_de": "Warum ist Phenol saurer als ein gewöhnlicher Alkohol?",
+   "back_de": "Das Phenolat-Anion ist durch Mesomerie über den aromatischen Ring stabilisiert (pKa≈10); Alkoholate sind nicht stabilisiert (pKa≈16). Phenol reagiert daher mit NaOH.",
+   "front_en": "Why is phenol more acidic than an alcohol?",
+   "back_en": "Phenolate is resonance-stabilized over the ring (pKa≈10).",
+   "tags": [
+    "phenol",
+    "acididaet"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c048",
+   "chapter": "k9",
+   "unit": 6,
+   "type": "qa",
+   "front_de": "Welche Gefahren gehen von Ethern aus?",
+   "back_de": "Sie bilden mit Luftsauerstoff explosive Peroxide (gefährlich beim Eindampfen), sind leicht entzündlich und flüchtig.",
+   "front_en": "Hazards of ethers?",
+   "back_en": "Form explosive peroxides; highly flammable/volatile.",
+   "tags": [
+    "ether",
+    "gefahr"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c049",
+   "chapter": "k9",
+   "unit": 6,
+   "type": "qa",
+   "front_de": "Warum sind Ether gute, reaktionsträge Lösungsmittel?",
+   "back_de": "Die C–O–C-Bindung ist wenig reaktiv; ohne O–H keine H-Brücken untereinander → niedriger Siedepunkt, lösen aber viele organische Stoffe.",
+   "front_en": "Why are ethers good inert solvents?",
+   "back_en": "C–O–C unreactive; no self H-bonding.",
+   "tags": [
+    "ether"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c050",
+   "chapter": "k10",
+   "unit": 7,
+   "type": "qa",
+   "front_de": "Warum ist das Carbonyl-C elektrophil?",
+   "back_de": "Der elektronegative Sauerstoff zieht Elektronen ab (C=O polarisiert, C ist δ+). Daher greifen Nucleophile das Carbonyl-C an (nucleophile Addition).",
+   "front_en": "Why is the carbonyl carbon electrophilic?",
+   "back_en": "O withdraws electrons → C is δ+ → nucleophiles attack.",
+   "tags": [
+    "carbonyl"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c051",
+   "chapter": "k10",
+   "unit": 7,
+   "type": "qa",
+   "front_de": "Warum sind Aldehyde reaktiver als Ketone?",
+   "back_de": "Aldehyde haben weniger sterische Hinderung und nur einen elektronenschiebenden Rest am Carbonyl-C → es bleibt elektrophiler.",
+   "front_en": "Why are aldehydes more reactive than ketones?",
+   "back_en": "Less steric hindrance and only one +I group at the carbonyl C.",
+   "tags": [
+    "carbonyl"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c052",
+   "chapter": "k10",
+   "unit": 7,
+   "type": "reaction",
+   "front_de": "Fehling-/Tollens-Probe – was zeigen sie an?",
+   "back_de": "Sie weisen Aldehyde (und reduzierende Zucker) nach: Aldehyd reduziert Cu²⁺ → rotes Cu₂O (Fehling) bzw. Ag⁺ → Silberspiegel (Tollens). Ketone reagieren nicht.",
+   "front_en": "Fehling/Tollens test?",
+   "back_en": "Detect aldehydes/reducing sugars (Cu₂O red / silver mirror); ketones negative.",
+   "tags": [
+    "carbonyl",
+    "nachweis"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c053",
+   "chapter": "k10",
+   "unit": 7,
+   "type": "qa",
+   "front_de": "Was ist ein Halbacetal/Acetal?",
+   "back_de": "Addition von 1 Alkohol an ein Carbonyl → Halbacetal (C mit OH und OR); mit 2. Alkohol (H⁺) → Acetal (C mit zwei OR). Grundlage der glykosidischen Bindung.",
+   "front_en": "Hemiacetal/acetal?",
+   "back_en": "Aldehyde + 1 alcohol → hemiacetal; + 2nd alcohol → acetal.",
+   "tags": [
+    "carbonyl",
+    "acetal"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c054",
+   "chapter": "k10",
+   "unit": 7,
+   "type": "qa",
+   "front_de": "Was ist ein Aldol?",
+   "back_de": "Ein β-Hydroxycarbonyl (z. B. β-Hydroxyaldehyd), Produkt der Aldoladdition zweier Carbonyle mit α-H. Mit Δ folgt Wasserabspaltung (Aldolkondensation → α,β-ungesättigtes Carbonyl).",
+   "front_en": "What is an aldol?",
+   "back_en": "A β-hydroxy carbonyl from aldol addition of two carbonyls with α-H.",
+   "tags": [
+    "carbonyl",
+    "aldol"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c055",
+   "chapter": "k10",
+   "unit": 7,
+   "type": "qa",
+   "front_de": "Was ist Keto-Enol-Tautomerie?",
+   "back_de": "Gleichgewicht durch Wanderung eines α-H und der Doppelbindung: Keto-Form (C=O) ⇌ Enol-Form (C=C–OH). Meist liegt die Keto-Form vor.",
+   "front_en": "Keto-enol tautomerism?",
+   "back_en": "Equilibrium between keto (C=O) and enol (C=C–OH); keto usually favoured.",
+   "tags": [
+    "tautomerie"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c056",
+   "chapter": "k11",
+   "unit": 8,
+   "type": "qa",
+   "front_de": "Warum sind Carbonsäuren saurer als Alkohole und Phenole?",
+   "back_de": "Das Carboxylat ist über ZWEI gleichwertige O mesomeriestabilisiert (pKa≈4–5) – stärker als Phenolat (≈10) und Alkoholat (≈16).",
+   "front_en": "Why are carboxylic acids more acidic?",
+   "back_en": "Carboxylate is resonance-stabilized over two equal oxygens.",
+   "tags": [
+    "carbonsaeure",
+    "acididaet"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c057",
+   "chapter": "k11",
+   "unit": 8,
+   "type": "qa",
+   "front_de": "Wie wirken –I-Substituenten auf die Säurestärke? (Beispiel)",
+   "back_de": "Elektronenziehende Gruppen stabilisieren das Carboxylat → stärkere Säure; je mehr/näher/elektronegativer, desto stärker. Reihung: Essigsäure < Chloressigsäure < Di- < Trichloressigsäure.",
+   "front_en": "Effect of –I groups on acidity?",
+   "back_en": "Electron-withdrawing groups stabilize carboxylate → stronger acid.",
+   "tags": [
+    "carbonsaeure",
+    "induktiv"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c058",
+   "chapter": "k11",
+   "unit": 8,
+   "type": "qa",
+   "front_de": "Ordne nach Säurestärke: Essigsäure, Ameisensäure, Chloressigsäure, Trifluoressigsäure.",
+   "back_de": "Trifluoressigsäure (pKa≈0,2) > Chloressigsäure (≈2,9) > Ameisensäure (≈3,8) > Essigsäure (≈4,8). Mehr/elektronegativere –I-Gruppen = stärker.",
+   "front_en": "Rank acidity: acetic, formic, chloroacetic, trifluoroacetic.",
+   "back_en": "TFA > chloroacetic > formic > acetic.",
+   "tags": [
+    "carbonsaeure",
+    "vergleich"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c059",
+   "chapter": "k12",
+   "unit": 8,
+   "type": "qa",
+   "front_de": "Reaktivitätsreihe der Carbonsäurederivate?",
+   "back_de": "Säurechlorid > Anhydrid > Ester > Amid. Man kann nur 'bergab' umwandeln (gute Abgangsgruppe → schlechte), nicht umgekehrt.",
+   "front_en": "Reactivity of acyl derivatives?",
+   "back_en": "Acyl chloride > anhydride > ester > amide.",
+   "tags": [
+    "derivate"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c060",
+   "chapter": "k12",
+   "unit": 8,
+   "type": "reaction",
+   "front_de": "Saure vs. alkalische Esterhydrolyse – Produkte und Reversibilität?",
+   "back_de": "Sauer (reversibel): Ester + H₂O ⇌ Carbonsäure + Alkohol. Alkalisch (Verseifung, irreversibel): Ester + NaOH → Carboxylat-Salz + Alkohol.",
+   "front_en": "Acidic vs basic ester hydrolysis?",
+   "back_en": "Acidic→acid+alcohol (reversible); basic→carboxylate+alcohol (irreversible).",
+   "tags": [
+    "ester",
+    "hydrolyse"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c061",
+   "chapter": "k12",
+   "unit": 8,
+   "type": "qa",
+   "front_de": "Was ist ein Lactam? Was ein Lacton?",
+   "back_de": "Lactam = cyclisches Amid (–CO–NH– im Ring, z. B. β-Lactam der Penicilline). Lacton = cyclischer Ester (–CO–O– im Ring).",
+   "front_en": "Lactam vs lactone?",
+   "back_en": "Lactam = cyclic amide; lactone = cyclic ester.",
+   "tags": [
+    "derivate",
+    "lactam"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c062",
+   "chapter": "k12",
+   "unit": 8,
+   "type": "qa",
+   "front_de": "Nenne 2 Carbonsäure- und 2 Kohlensäurederivate.",
+   "back_de": "Carbonsäurederivate: Säurechlorid, Ester, Amid, Anhydrid. Kohlensäurederivate: Harnstoff (Diamid), Carbamat/Urethan, Carbonat, Phosgen.",
+   "front_en": "2 carboxylic + 2 carbonic acid derivatives?",
+   "back_en": "Acyl chloride/ester/amide; urea/carbamate/carbonate.",
+   "tags": [
+    "derivate"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c063",
+   "chapter": "k11",
+   "unit": 8,
+   "type": "qa",
+   "front_de": "Decarboxylierung vs. Decarbonylierung vs. Dehydrierung?",
+   "back_de": "Decarboxylierung: Abspaltung von CO₂. Decarbonylierung: Abspaltung von CO. Dehydrierung: Abspaltung von H₂ (Oxidation).",
+   "front_en": "Decarboxylation vs decarbonylation vs dehydrogenation?",
+   "back_en": "Lose CO₂ / CO / H₂ respectively.",
+   "tags": [
+    "abspaltung"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c064",
+   "chapter": "k14",
+   "unit": 9,
+   "type": "qa",
+   "front_de": "Ordne nach Basizität: Anilin, Ammoniak, Ethylamin.",
+   "back_de": "Ethylamin > Ammoniak > Anilin. Alkylgruppen (+I) machen aliphatische Amine basischer; bei Anilin ist das Elektronenpaar in den Ring delokalisiert → schwächer.",
+   "front_en": "Rank basicity: aniline, ammonia, ethylamine.",
+   "back_en": "Ethylamine > ammonia > aniline.",
+   "tags": [
+    "amin",
+    "basizitaet"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c065",
+   "chapter": "k14",
+   "unit": 9,
+   "type": "reaction",
+   "front_de": "Was entsteht bei Ethylbromid + Ammoniak?",
+   "back_de": "SN2: Ethylamin (C₂H₅NH₂) + HBr. Bei Überschuss Ethylbromid weiter zu Di-/Triethylamin und Tetraethylammoniumsalz.",
+   "front_en": "Ethyl bromide + ammonia?",
+   "back_en": "Ethylamine (SN2); over-alkylation possible.",
+   "tags": [
+    "amin",
+    "sn"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c066",
+   "chapter": "k14",
+   "unit": 9,
+   "type": "reaction",
+   "front_de": "Diazotierung – Edukte, Bedingung, Produkt?",
+   "back_de": "Aromatisches Amin (Anilin) + NaNO₂/HCl bei 0–5 °C → Aryldiazoniumsalz (Ar–N₂⁺). Kalt halten, sonst Zersetzung.",
+   "front_en": "Diazotization?",
+   "back_en": "Aromatic amine + NaNO₂/HCl at 0–5 °C → aryldiazonium salt.",
+   "tags": [
+    "amin",
+    "diazo"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c067",
+   "chapter": "k15",
+   "unit": 10,
+   "type": "qa",
+   "front_de": "Was ist ein Heterozyklus? Nenne biologische Beispiele.",
+   "back_de": "Ring mit mind. einem Heteroatom (N, O, S). Beispiele: Pyridin, Pyrimidin (DNA-Basen), Imidazol (Histidin), Purin (Adenin/Guanin), Porphyrin (Häm/Chlorophyll).",
+   "front_en": "What is a heterocycle? Examples?",
+   "back_en": "Ring with ≥1 heteroatom: pyridine, pyrimidine, imidazole, purine, porphyrin.",
+   "tags": [
+    "heterozyklus"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c068",
+   "chapter": "k15",
+   "unit": 10,
+   "type": "qa",
+   "front_de": "π-Mangel- vs. π-Überschuss-Heteroaromaten (je 2 Beispiele)?",
+   "back_de": "π-Überschuss (5-Ring, Heteroatom gibt Elektronenpaar ins π-System): Pyrrol, Furan, Thiophen, Imidazol. π-Mangel (N zieht ab): Pyridin, Pyrimidin.",
+   "front_en": "π-excess vs π-deficient heteroaromatics?",
+   "back_en": "Excess: pyrrole, furan. Deficient: pyridine, pyrimidine.",
+   "tags": [
+    "heterozyklus"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c069",
+   "chapter": "k15",
+   "unit": 10,
+   "type": "qa",
+   "front_de": "Welches Ringsystem steckt in Chlorophyll und Häm?",
+   "back_de": "Porphyrin: ein Makrozyklus aus vier Pyrrol-Ringen, der ein Zentralion chelatisiert – Mg²⁺ im Chlorophyll, Fe²⁺ im Häm.",
+   "front_en": "Ring system in chlorophyll/heme?",
+   "back_en": "Porphyrin (four pyrroles) chelating Mg²⁺ / Fe²⁺.",
+   "tags": [
+    "heterozyklus",
+    "porphyrin"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c070",
+   "chapter": "k15",
+   "unit": 10,
+   "type": "qa",
+   "front_de": "Heterocyclischer Grundkörper von NAD⁺?",
+   "back_de": "Pyridin (als Nicotinamid, Pyridin-3-carbonsäureamid). Es ist der wasserstoffübertragende Teil des Coenzyms NAD⁺/NADH.",
+   "front_en": "Heterocyclic core of NAD⁺?",
+   "back_en": "Pyridine (as nicotinamide).",
+   "tags": [
+    "heterozyklus",
+    "nad"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c071",
+   "chapter": "k16",
+   "unit": 10,
+   "type": "qa",
+   "front_de": "Wie ist eine α-Aminosäure aufgebaut?",
+   "back_de": "Am α-C: Aminogruppe (–NH₂), Carboxylgruppe (–COOH), ein H und ein Rest R. Außer Glycin (R=H) sind alle chiral.",
+   "front_en": "Structure of an α-amino acid?",
+   "back_en": "α-C bears –NH₂, –COOH, H, R; all chiral except glycine.",
+   "tags": [
+    "aminosaeure"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c072",
+   "chapter": "k16",
+   "unit": 10,
+   "type": "qa",
+   "front_de": "Was ist ein Zwitterion / der isoelektrische Punkt?",
+   "back_de": "Zwitterion: AS mit gleichzeitig positiver (⁺H₃N–) und negativer (–COO⁻) Ladung. Am isoelektrischen Punkt (pI) ist die Nettoladung null.",
+   "front_en": "Zwitterion / isoelectric point?",
+   "back_en": "Both + and − charge; net charge zero at pI.",
+   "tags": [
+    "aminosaeure",
+    "pi"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c073",
+   "chapter": "k16",
+   "unit": 10,
+   "type": "qa",
+   "front_de": "Welche AS ist nicht chiral und warum?",
+   "back_de": "Glycin (H₂N–CH₂–COOH): das α-C trägt zwei H, also keine vier verschiedenen Reste → kein Stereozentrum.",
+   "front_en": "Which amino acid is achiral and why?",
+   "back_en": "Glycine – its α-carbon has two H (no four different groups).",
+   "tags": [
+    "aminosaeure",
+    "chiralitaet"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c074",
+   "chapter": "k16",
+   "unit": 10,
+   "type": "reaction",
+   "front_de": "Was entsteht bei der sauren Hydrolyse eines Peptids?",
+   "back_de": "Die Peptid-(Amid-)Bindungen werden gespalten → die einzelnen freien Aminosäuren.",
+   "front_en": "Acid hydrolysis of a peptide?",
+   "back_en": "Cleaves peptide bonds → the individual amino acids.",
+   "tags": [
+    "peptid",
+    "hydrolyse"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c075",
+   "chapter": "k17",
+   "unit": 10,
+   "type": "qa",
+   "front_de": "Aldose vs. Ketose (je ein Beispiel)?",
+   "back_de": "Aldose: Zucker mit Aldehydgruppe (z. B. Glucose). Ketose: Zucker mit Ketogruppe (z. B. Fructose).",
+   "front_en": "Aldose vs ketose?",
+   "back_en": "Aldose has aldehyde (glucose); ketose has ketone (fructose).",
+   "tags": [
+    "kohlenhydrate"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c076",
+   "chapter": "k17",
+   "unit": 10,
+   "type": "qa",
+   "front_de": "Wie nennt man die Bindung zwischen zwei Zuckern und was ist sie chemisch?",
+   "back_de": "Glykosidische Bindung – chemisch ein Acetal (am anomeren C, unter Wasserabspaltung). Hydrolyse spaltet sie wieder.",
+   "front_en": "Bond between two sugars?",
+   "back_en": "Glycosidic bond = an acetal.",
+   "tags": [
+    "kohlenhydrate",
+    "glykosid"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c077",
+   "chapter": "k17",
+   "unit": 10,
+   "type": "qa",
+   "front_de": "Was ist ein reduzierender Zucker?",
+   "back_de": "Ein Zucker, dessen offene Form eine freie Aldehydgruppe besitzt → reagiert positiv mit Fehling/Tollens (z. B. Glucose, Maltose).",
+   "front_en": "What is a reducing sugar?",
+   "back_en": "One with a free aldehyde group → positive Fehling/Tollens.",
+   "tags": [
+    "kohlenhydrate"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c078",
+   "chapter": "k17",
+   "unit": 10,
+   "type": "qa",
+   "front_de": "Wie unterscheidet man D- und L-Zucker (Fischer-Projektion)?",
+   "back_de": "Nach der OH-Stellung am untersten Chiralitätszentrum: rechts = D, links = L. Die meisten natürlichen Zucker sind D.",
+   "front_en": "D vs L sugars (Fischer)?",
+   "back_en": "OH at the lowest stereocenter: right = D, left = L.",
+   "tags": [
+    "kohlenhydrate",
+    "fischer"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c079",
+   "chapter": "k18",
+   "unit": 11,
+   "type": "qa",
+   "front_de": "Was sind Chromophor, auxochrome und antiauxochrome Gruppen?",
+   "back_de": "Chromophor: licht-absorbierendes konjugiertes System (z. B. –N=N–). Auxochrom: elektronenschiebend (–OH, –NH₂), verstärkt/verschiebt Farbe + bindet an Faser. Antiauxochrom: elektronenziehend (–NO₂).",
+   "front_en": "Chromophore/auxochrome/antiauxochrome?",
+   "back_en": "Chromophore=conjugated absorber; auxochrome donates e⁻; antiauxochrome withdraws.",
+   "tags": [
+    "farbstoff"
+   ],
+   "derivable": null,
+   "tier": 3,
+   "image": null
+  },
+  {
+   "id": "c080",
+   "chapter": "k18",
+   "unit": 11,
+   "type": "qa",
+   "front_de": "Was ist ein Küpenfarbstoff?",
+   "back_de": "Wasserunlöslicher Farbstoff (z. B. Indigo), der durch Reduktion in die lösliche Leukoform gebracht, auf die Faser aufgezogen und durch Oxidation an Luft wieder fixiert wird.",
+   "front_en": "What is a vat dye?",
+   "back_en": "Insoluble dye applied via reduced (leuco) form, then re-oxidized on the fibre.",
+   "tags": [
+    "farbstoff",
+    "kuepe"
+   ],
+   "derivable": null,
+   "tier": 3,
+   "image": null
+  },
+  {
+   "id": "c081",
+   "chapter": "k18",
+   "unit": 11,
+   "type": "reaction",
+   "front_de": "Was entsteht bei Benzendiazoniumchlorid + Anilin (Azokupplung)?",
+   "back_de": "Ein Azofarbstoff (Ar–N=N–Ar', z. B. 4-Aminoazobenzol). Reaktionstyp: EAS; Besonderheit: das konjugierte Azo-System –N=N– ist der Chromophor → farbig.",
+   "front_en": "Benzenediazonium chloride + aniline?",
+   "back_en": "Azo dye (Ar–N=N–Ar') via azo coupling; –N=N– is the chromophore.",
+   "tags": [
+    "farbstoff",
+    "azo"
+   ],
+   "derivable": null,
+   "tier": 3,
+   "image": null
+  },
+  {
+   "id": "c082",
+   "chapter": "k19",
+   "unit": 11,
+   "type": "qa",
+   "front_de": "Warum reagieren Seifen alkalisch?",
+   "back_de": "Seife = Salz einer schwachen Säure (Fettsäure) + starken Base (NaOH). Das Carboxylat hydrolysiert teilweise: R–COO⁻ + H₂O ⇌ R–COOH + OH⁻ → basisch.",
+   "front_en": "Why are soaps alkaline?",
+   "back_en": "Salt of weak acid + strong base; carboxylate hydrolyses → OH⁻.",
+   "tags": [
+    "tenside"
+   ],
+   "derivable": null,
+   "tier": 3,
+   "image": null
+  },
+  {
+   "id": "c083",
+   "chapter": "k19",
+   "unit": 11,
+   "type": "qa",
+   "front_de": "Wie funktioniert die Waschwirkung von Tensiden?",
+   "back_de": "Amphiphile Moleküle bilden Micellen: unpolare Schwänze lösen Fett im Inneren, polare Köpfe zeigen zum Wasser → Schmutz wird eingeschlossen und abgespült.",
+   "front_en": "How do surfactants clean?",
+   "back_en": "Form micelles: non-polar tails dissolve grease, polar heads face water.",
+   "tags": [
+    "tenside",
+    "micelle"
+   ],
+   "derivable": null,
+   "tier": 3,
+   "image": null
+  },
+  {
+   "id": "c084",
+   "chapter": "k19",
+   "unit": 11,
+   "type": "qa",
+   "front_de": "Was ist ein Triglycerid?",
+   "back_de": "Triester aus Glycerin + drei Fettsäuren. Funktionelle Gruppe: drei Estergruppen. Fette und Öle.",
+   "front_en": "What is a triglyceride?",
+   "back_en": "Triester of glycerol + 3 fatty acids (three ester groups).",
+   "tags": [
+    "tenside",
+    "fett"
+   ],
+   "derivable": null,
+   "tier": 3,
+   "image": null
+  },
+  {
+   "id": "c085",
+   "chapter": "k21",
+   "unit": 11,
+   "type": "qa",
+   "front_de": "Wie berechnet sich der Rf-Wert?",
+   "back_de": "Rf = Laufstrecke der Substanz / Laufstrecke des Lösungsmittels (0 bis 1). Polare Stoffe haften am Kieselgel → kleiner Rf.",
+   "front_en": "How is Rf calculated?",
+   "back_en": "Rf = distance(substance)/distance(solvent).",
+   "tags": [
+    "chromatographie",
+    "rf"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c086",
+   "chapter": "k21",
+   "unit": 11,
+   "type": "qa",
+   "front_de": "Welche DC-Detektionsmöglichkeiten gibt es?",
+   "back_de": "UV-Licht (254/366 nm, Fluoreszenzlöschung), Iodkammer, Anfärbereagenzien (z. B. Ninhydrin für Aminosäuren).",
+   "front_en": "TLC detection methods?",
+   "back_en": "UV light, iodine chamber, staining reagents (e.g. ninhydrin).",
+   "tags": [
+    "chromatographie"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c087",
+   "chapter": "k21",
+   "unit": 11,
+   "type": "qa",
+   "front_de": "Beschreibe die Umkristallisation.",
+   "back_de": "Reinigung von Feststoffen: in heißem LM gerade lösen, langsam abkühlen → reine Kristalle fallen aus, Verunreinigungen bleiben gelöst; abfiltrieren.",
+   "front_en": "Describe recrystallization.",
+   "back_en": "Dissolve hot, cool slowly → pure crystals; impurities stay in solution.",
+   "tags": [
+    "reinigung"
+   ],
+   "derivable": null,
+   "tier": 2,
+   "image": null
+  },
+  {
+   "id": "c088",
+   "chapter": "k22",
+   "unit": 1,
+   "type": "qa",
+   "front_de": "Prioritätsreihe der funktionellen Gruppen für die IUPAC-Endung?",
+   "back_de": "Carbonsäure > Ester > Amid > Nitril > Aldehyd > Keton > Alkohol > Amin. Die ranghöchste bestimmt Endung und niedrigsten Lokanten.",
+   "front_en": "IUPAC suffix priority of groups?",
+   "back_en": "Acid > ester > amide > nitrile > aldehyde > ketone > alcohol > amine.",
+   "tags": [
+    "nomenklatur"
+   ],
+   "derivable": null,
+   "tier": 1,
+   "image": null
+  },
+  {
+   "id": "c089",
+   "chapter": "k22",
+   "unit": 1,
+   "type": "qa",
+   "front_de": "Wie erkennst du funktionelle Gruppen in einem Naturstoff?",
+   "back_de": "Systematisch: erst alle C=O (mit O–H=Säure, O–R=Ester, N=Amid, sonst Keton/Aldehyd), dann –OH, –NH₂, –O–, Ringe (Heterozyklus?), Mehrfachbindungen.",
+   "front_en": "How to spot functional groups in a natural product?",
+   "back_en": "Find all C=O first, classify by neighbour; then OH, NH₂, O, rings.",
+   "tags": [
+    "nomenklatur",
+    "funktionelle-gruppe"
    ],
    "derivable": null,
    "tier": 1,
